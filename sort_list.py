@@ -9,4 +9,6 @@ name.sort(reverse=True)
 print(name)
 name.reverse()
 print(len(name))
+for p in name:
+	print(p)
 
